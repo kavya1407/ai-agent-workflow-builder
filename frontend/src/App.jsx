@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://ai-agent-workflow-builder-backend-chfg.onrender.com";
 
 const WORKFLOW_ID =
   "e155fa4a-802b-491a-999b-d0aef0419bd5";
